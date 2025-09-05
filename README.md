@@ -4,7 +4,7 @@ Una calculadora web moderna y responsiva construida con HTML, CSS y JavaScript.
 
 ## 🚀 Demo en Vivo
 
-[**👉 Abrir Calculadora en Nueva Pestaña**](https://tu-usuario.github.io/calculadora-prueba/)
+[**👉 Abrir Calculadora en Nueva Pestaña**](https://manuelt-afk.github.io/Calculadora_prueba/)
 
 ## ✨ Características
 
